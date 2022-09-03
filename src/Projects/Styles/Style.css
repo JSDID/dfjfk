@@ -1,0 +1,19 @@
+.Projects__item {
+  display: block;
+  margin-top: 10px;
+  background-color: #fff;
+  height: 300px;
+  width: 350px;
+}
+.Projects__image {
+  display: block;
+  height: 200px;
+  width: 100%;
+}
+.Projects__link {
+  text-decoration: none;
+}
+.Projects__about {
+  padding: 10px;
+  color: #000;
+}
